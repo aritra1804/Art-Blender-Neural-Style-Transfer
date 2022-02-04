@@ -25,3 +25,7 @@ Finally the output is te blend of these two images such that the input image is 
   <img src="outputs\starrynight_onto_eiffel_at_iteration_0.png" width="350" alt="accessibility text">
 </p>
 
+**References**
+- https://www.tensorflow.org/tutorials/generative/style_transfer
+- https://blog.tensorflow.org/2018/08/neural-style-transfer-creating-art-with-deep-learning.html
+- https://www.v7labs.com/blog/neural-style-transfer
